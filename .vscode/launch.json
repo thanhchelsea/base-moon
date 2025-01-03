@@ -11,7 +11,7 @@
             "cwd": "apps/moon",
             "args": [
                 "--flavor",
-                "prod",
+                "development",
                 "--target",
                 "lib/main.dart"
             ]
