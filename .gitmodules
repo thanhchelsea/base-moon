@@ -1,0 +1,9 @@
+[submodule "packages/template"]
+	path = packages/template
+	url = https://github.com/thanhchelsea/template.git
+[submodule "packages/network"]
+	path = packages/network
+	url = git@github.com:moon-book/network.git
+[submodule "packages/auth"]
+	path = packages/auth
+	url = https://github.com/thanhchelsea/auth.git

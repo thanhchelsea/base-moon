@@ -1,0 +1,8 @@
+# melos_managed_dependency_overrides: auth,network,template
+dependency_overrides:
+  auth:
+    path: ../../packages/auth
+  network:
+    path: ../../packages/network
+  template:
+    path: ../../packages/template

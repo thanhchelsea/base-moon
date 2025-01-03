@@ -1,0 +1,5 @@
+name: Moon
+
+packages:
+  - apps/**
+  - packages/**
